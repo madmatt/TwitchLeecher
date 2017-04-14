@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchLeecher.Services", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchLeecher.Core", "TwitchLeecher.Core\TwitchLeecher.Core.csproj", "{EE50464E-7667-4223-9FDE-05B0AE0D90CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchLeecher.ServicesTests", "TwitchLeecher.ServicesTests\TwitchLeecher.ServicesTests.csproj", "{7C98903F-3CE2-4B78-8105-D7F28C14F8E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EE50464E-7667-4223-9FDE-05B0AE0D90CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE50464E-7667-4223-9FDE-05B0AE0D90CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE50464E-7667-4223-9FDE-05B0AE0D90CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C98903F-3CE2-4B78-8105-D7F28C14F8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C98903F-3CE2-4B78-8105-D7F28C14F8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C98903F-3CE2-4B78-8105-D7F28C14F8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C98903F-3CE2-4B78-8105-D7F28C14F8E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
